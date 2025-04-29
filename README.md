@@ -1,6 +1,6 @@
 ### Hi, I'm Gianluca 👋
 
-- 👨‍🔬 **Cloud&DevOps Data Engineer** at [Doxee](https://doxee.com)
+- 👨‍🔬 **Cloud Data Engineer** at [Doxee](https://doxee.com)
 - 👨‍🎓 **M.Sc in Computer Engineering** with a specialization in Cloud Engineering from [UNIMORE](https://international.unimore.it/).
 - 📚 Currently exploring **Data Analysis, Cloud Architecture, Data Engineering, IoT, Web Development, Security and Entrepreneurship**.
 
